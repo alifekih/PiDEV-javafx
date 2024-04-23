@@ -17,6 +17,8 @@ public class HelloController {
 
     @FXML
     private Label welcomeText;
+    @FXML
+    private Label welcomeText1;
 
     private User user;
 
